@@ -2,11 +2,6 @@
 
 <p id="description">This is a personal web project where users can change the content according to the content that the user wants.</p>
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://cdn.discordapp.com/attachments/1062913002002726976/1128311748492013568/image.png" alt="project-screenshot" width="100%" height="100%/">
-
-  
   
 <h2>🧐 Features</h2>
 
