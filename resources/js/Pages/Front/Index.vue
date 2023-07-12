@@ -55,7 +55,6 @@ const props = defineProps({
             class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
         >
             <a href="/" class="flex items-center">
-                <img src="img/logo.png" class="h-10 mr-3" alt=" Logo" />
                 <span
                     class="self-center text-2xl text-gray-50 font-semibold whitespace-nowrap dark:text-dark"
                     >Mahasiswa</span
@@ -309,7 +308,6 @@ const props = defineProps({
                         <Logo />
                     </div>
                     <div className="text-sm text-gray-50">
-                        <img src="img/logo.png" class="h-8 mr-3" alt=" Logo" />
                         <span
                             class="self-center text-2xl font-semibold whitespace-nowrap dark:text-dark"
                             >Mahasiswa</span
